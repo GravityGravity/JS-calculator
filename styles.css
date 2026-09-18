@@ -1,3 +1,24 @@
 body {
     margin: 0px;
 }
+
+#display {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px;
+    outline: 1px solid black;
+    width: 384px;
+}
+
+.row {
+    display: flex;
+}
+
+.row button{
+    color: red;
+    margin: 0px;
+    width: 100px;
+    height: 100px;
+    font-size: xx-large;
+}
+

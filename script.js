@@ -17,7 +17,7 @@ function operate (operator, op1, op2) {
         default:
             return 'ERROR';
     }
-}                                                                                                           
+}                                                                                                               
 
 function add (op1, op2) {
     return op1 + op2;
