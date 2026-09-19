@@ -19,7 +19,7 @@ Layout is a nested flex hierarchy: `body` (column, `min-height: 100vh`) → `#ca
 <img src="imgs/display-large.png" alt="Calculator display, large viewport" width="600">
 
 ## What could have I improved:
-- Addenumber overflow protection
+- Add number overflow protection
 - Add memory capability for simple calc
 - Add other operations such as ^ % // (power, remainder, int division)
 - Reduce header size
