@@ -16,5 +16,4 @@ Layout is a nested flex hierarchy: `body` (column, `min-height: 100vh`) → `#ca
 ## Display at Different Sizes
 
 <img src="img/display-small.png" alt="Calculator display, small viewport" width="200">
-<img src="img/display-medium.png" alt="Calculator display, medium viewport" width="400">
 <img src="img/display-large.png" alt="Calculator display, large viewport" width="600">
